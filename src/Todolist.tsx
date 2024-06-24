@@ -22,7 +22,7 @@ export function Todolist(props: PropsType) {
 
   return <div>
 
-    <h3>{props.title}</h3>
+    <h3 className="color">{props.title}</h3>
     <input type="text" />
     <button>+</button>
     <div>
