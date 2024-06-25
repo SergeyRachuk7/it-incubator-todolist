@@ -42,4 +42,4 @@ export function Todolist(props: PropsType) {
     <button>Active</button>
     <button>Completed</button>
   </div >
-}
+} 
